@@ -19,3 +19,15 @@ body{
     font-size: 30px;
 }
 
+#Fotofran {
+    float: left;
+    height: 250px;
+}
+
+div{
+    border: solid green;
+}
+
+.image-container {
+height: 350px;
+}
