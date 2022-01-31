@@ -1,0 +1,21 @@
+
+h1 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.description{font-family: sans-serif;
+
+}
+
+body{
+    background-color: #E5A4CB;
+
+}
+
+#nacionalidade {
+    color: tomato;
+}
+.habilities {
+    font-size: 30px;
+}
+
