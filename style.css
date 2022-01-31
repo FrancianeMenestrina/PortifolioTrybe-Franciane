@@ -48,3 +48,7 @@ h1 {
     text-align: center;
 
 }
+
+#impares ul li:nth-child(even) {
+    background-color: green;
+}
