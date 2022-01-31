@@ -1,9 +1,19 @@
 
+body {
+    padding: 3%;
+}
+
 h1 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
 .description{font-family: sans-serif;
+    position: absolute;
+    top: 70px;
+    right: 170px;
+    text-align: center;
+    
+
 
 }
 
@@ -26,13 +36,12 @@ body{
     background-color: #fb545c;
 }
 
-div{
-    border: solid green;
-}
+
 
 
 .image-container {
 height: 250px;
+position: relative;
 }
 
 h1 {
