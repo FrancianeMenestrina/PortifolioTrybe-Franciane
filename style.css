@@ -21,15 +21,18 @@ body{
 
 #Fotofran {
     float: left;
-    height: 250px;
+    height: 230px;
+    padding: 10px;
+    background-color: #fb545c;
 }
 
 div{
     border: solid green;
 }
 
+
 .image-container {
-height: 350px;
+height: 250px;
 }
 
 h1 {
